@@ -28,7 +28,7 @@
 .menu ul li a{
     text-decoration: none;
 }
-.underliney{
+.underline{
     border-bottom: 2px solid #ED661F;
 }
 
@@ -223,6 +223,14 @@ i{
 }
 
 .pics{
-    max-width: 10%;
-    max-height: 10%;
+    min-height: auto;
+    
+}
+
+.play-store{
+    padding-left: 80px; 
+    padding-top: 50px;
+    padding-right: 200px;
+    
+
 }
