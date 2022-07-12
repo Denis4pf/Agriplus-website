@@ -232,9 +232,12 @@ i{
 }
 
 .play-store{
-    padding-left: 80px; 
-    padding-top: 50px;
-    padding-right: 200px;
-    
-
+  display: flex;
+ padding-left: 80px;
+ padding-right: 20px;
+ 
+}
+.icon-small{
+    padding-top: 15px;
+    padding-right: 20px;
 }
