@@ -14,15 +14,18 @@
     padding-top: 20px;
     background-color: black;
     color: white;
+    padding-left: 50px;
 }
 .menu ul{ 
     display: flex;
     list-style: none;
-    padding-left: 150px;
+    padding-left: 250px;
+    padding-top: 20px;
+    
 }
 
 .menu ul li{
-    padding-right: 60px;
+    padding-right: 50px;
 }
 
 .menu ul li a{
@@ -34,6 +37,7 @@
 
 .get-started{
     padding-left: 150px;
+    padding-bottom: 20px;
 }
 .get-started-btn, .btn-learn-more{
     padding: 20px 35px;
