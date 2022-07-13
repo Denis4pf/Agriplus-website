@@ -1,6 +1,6 @@
 # Agriplus-website
 # author-name
-Orina Onwong'a
+Orina Denis Onwong'a
 # project or program name
 Agriculture website
 # description of program
