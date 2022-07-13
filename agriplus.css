@@ -126,7 +126,8 @@
     display: flex;
     background-color: #fff;
     padding: 50px 30px 50px;
-    margin-left: 2px;
+    margin-left: 3px;
+    padding-top: 20px;
 }
 
 .new-p{
